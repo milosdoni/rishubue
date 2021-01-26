@@ -30,7 +30,7 @@ body {
     font-style: var(--ff-secondary);
     background: var(--clr-white);
     color: var(--clr-grey-1);
-    color: white;
+    /* color: white; */
     line-height: 1.5;
     font-size: 0.875rem;
 }
@@ -126,4 +126,52 @@ header
  .btn:hover {
      color: var(--ff-primary);
      background: var(--clr-primary-light);
+}
+/* 
+=========================
+skills
+=========================
+ */
+.skills {
+    background: var(--clr-grey-10);
+}
+.skill {
+    padding: 1.5rem 0;
+    text-align: center;
+    transition: var(--transition);
+}
+.skill-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1.25rem;
+    transition: var(--transition);
+    display: inline-block;
+    color: var(--clr-primary);
+} 
+.skill-title {
+   color: red; 
+}
+.skill-text {
+    color: var(--clr-grey-5);
+    min-width: 17rem;
+    margin: 0 auto;
+}
+.skill:hover {
+    background: var(--clr-white);
+    box-shadow: 0 2px var(--clr-primary);
+}
+.skill:hover {
+    transform: translateY(-5px);
+
+}
+@media screen and (min-width:576px) {
+   .skill{
+       float: left;
+       width: 50%;
+   } 
+}
+@media screen and (min-width:1200px) {
+    .skill {
+        float:left;
+        width: 25%;
+    }
 }

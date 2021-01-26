@@ -1,0 +1,37 @@
+<hr class="line">
+<!-- offer -->
+<div class="alloffer">
+<!-- offer 1 -->
+<div class="offer">
+<span class="offer-fav">
+<i class="fas fa-mug-hot"></i> 
+</span>
+<h4 class="offer-title">ponuda #1</h4>
+<p class="offer-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.</p>
+</div>
+<!-- offer 2 -->
+<div class="offer">
+    <span class="offer-fav">
+    <i class="fas fa-mug-hot"></i> 
+    </span>
+    <h4 class="offer-title">ponuda #2</h4>
+    <p class="offer-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.</p>
+    </div>
+<!-- offer 3 -->
+<div class="offer">
+    <span class="offer-fav">
+    <i class="fas fa-mug-hot"></i> 
+    </span>
+    <h4 class="offer-title">ponuda #3</h4>
+    <p class="offer-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.</p>
+    </div>
+<!-- offer 4 -->
+<div class="offer">
+    <span class="offer-fav">
+    <i class="fas fa-mug-hot"></i> 
+    </span>
+    <h4 class="offer-title">ponuda #4</h4>
+    <p class="offer-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.</p>
+    </div>
+</div>
+<!-- end of offer -->
